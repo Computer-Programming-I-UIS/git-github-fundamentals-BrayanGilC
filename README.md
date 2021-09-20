@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Brayan Gil
 
 ## 🤓 Course overview and learning outcomes 
 
